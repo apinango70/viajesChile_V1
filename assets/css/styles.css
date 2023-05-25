@@ -1,0 +1,68 @@
+/* chequeo de boundaries */
+#redesSociales {
+  outline: 1px solid red;
+} 
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+ 
+#quienesSomos h2{
+  margin: 1em 0 0.5em;
+}
+
+#quienesSomos p{
+    text-align: left;
+}
+
+#destacados h2{
+  margin: 1.5em 0 1em 0;
+}
+
+.carta{
+    background-color: #17A3B8;
+    width: auto;
+    height: 31.25em;
+    margin-left: 5%;
+    margin-right: 5%;
+ 
+  }
+
+.card-text{
+  text-align: left;
+}
+
+.c2 img{
+  height: 45%;
+ }
+
+#contacto h2{
+  margin: 1.5em 0 1em 0;
+}
+
+
+.formulario {
+  margin: 0 8.125em 2em 7.5em;
+  text-align: left;
+}
+
+ 
+.iconos{
+  background-color: #17A3B8;
+  margin: 1em;
+  padding 0;
+}
+
+.fab {
+  color: #fff;
+}
+
+#redesSociales{
+  padding-top: 2em!important;
+  vertical-align: middle;
+}
